@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png" group-title="INFANTIL", CHINOLA TV
+https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
+
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="EVENTOS DEPORTIVOS", DEPORTV 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
