@@ -1,5 +1,22 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="CORDOBA", LA POPU YT
+https://ythls.onrender.com/video/3mRRZ3J10rg.m3u8
+
+#EXTINF:-1 group-title="CORDOBA", CADENA HEAT 91.9 FM YT
+https://ythls.onrender.com/video/vRqjPMu6jtM.m3u8
+
+#EXTINF:-1 group-title="SANTA FE", CADENA 3 ROSARIO YT
+https://ythls.onrender.com/video/K9vu60jNvaw.m3u8
+
+#EXTINF:-1 group-title="SANTA FE", CADENA 3 SANTA FE YT
+https://ythls.onrender.com/video/d7uPme37qtw.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", CADENA 3 YT
+https://ythls.onrender.com/video/sEooidi0EAQ.m3u8 
+
+
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
