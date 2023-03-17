@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1536x384.png" group-title="AMBA", CANAL 72
+https://stmv1.cnarlatam.com/canal72tv/canal72tv/playlist.m3u8
+
+
 #EXTINF:-1 group-title="CORDOBA", LA POPU YT
 https://ythls.onrender.com/video/3mRRZ3J10rg.m3u8
 
