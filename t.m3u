@@ -1,98 +1,83 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", DISCOVERY WORLD
 http://tvstarlife.com:25461/live/geovany/geovany/2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", A&E
 http://tvstarlife.com:25461/live/geovany/geovany/3.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", AMC
 http://tvstarlife.com:25461/live/geovany/geovany/4.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
-http://tvstarlife.com:25461/live/geovany/geovany/6.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", CINECANAL
 http://tvstarlife.com:25461/live/geovany/geovany/7.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", CINEMAX
 http://tvstarlife.com:25461/live/geovany/geovany/8.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", SONY MOVIE
 http://tvstarlife.com:25461/live/geovany/geovany/9.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", FX
 http://tvstarlife.com:25461/live/geovany/geovany/10.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", FXM
 http://tvstarlife.com:25461/live/geovany/geovany/11.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", SPACE
 http://tvstarlife.com:25461/live/geovany/geovany/12.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
-http://tvstarlife.com:25461/live/geovany/geovany/13.m3u8  ?
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
-http://tvstarlife.com:25461/live/geovany/geovany/14.m3u8  ?
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", SYFY
 http://tvstarlife.com:25461/live/geovany/geovany/15.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
-http://tvstarlife.com:25461/live/geovany/geovany/16.m3u8 ?
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", TNT
 http://tvstarlife.com:25461/live/geovany/geovany/17.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", TNT SERIES
 http://tvstarlife.com:25461/live/geovany/geovany/20.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", UNIVERSAL
 http://tvstarlife.com:25461/live/geovany/geovany/21.m3u8 ?
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", STUDIO UNIVERSAL
 http://tvstarlife.com:25461/live/geovany/geovany/22.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", STUDIO UNIVERSAL
 http://tvstarlife.com:25461/live/geovany/geovany/23.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", PARAMOUNT
 http://tvstarlife.com:25461/live/geovany/geovany/24.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", WARNER
 http://tvstarlife.com:25461/live/geovany/geovany/25.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", EDGE
 http://tvstarlife.com:25461/live/geovany/geovany/27.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", GOLDEN EDGE
 http://tvstarlife.com:25461/live/geovany/geovany/28.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", CARACOL NOTICIAS
 http://tvstarlife.com:25461/live/geovany/geovany/29.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", MOVIE
 http://tvstarlife.com:25461/live/geovany/geovany/30.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", CINE LATINO
 http://tvstarlife.com:25461/live/geovany/geovany/31.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", CORAZON
 http://tvstarlife.com:25461/live/geovany/geovany/32.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", DE PELICULA CLASICOS
 http://tvstarlife.com:25461/live/geovany/geovany/33.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", DE PELICULA
 http://tvstarlife.com:25461/live/geovany/geovany/34.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", STAR CHANNEL
 http://tvstarlife.com:25461/live/geovany/geovany/35.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 
