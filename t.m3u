@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/612.png" group-title="EVENTOS DEPORTIVOS", DIRECTV SPORTS 2
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="EVENTOS DEPORTIVOS", TNT SPORTS ARG HD
 http://128.201.227.251:4000/play/a003
 
