@@ -1,22 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/612.png" group-title="EVENTOS DEPORTIVOS", DIRECTV SPORTS 2
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="EVENTOS DEPORTIVOS", TNT SPORTS ARG HD
-http://128.201.227.251:4000/play/a003
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="EVENTOS DEPORTIVOS", TNT SPORTS ARG HD
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1901
 
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png", CANAL DE LA CIUDAD
 https://g3.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="EVENTOS DEPORTIVOS", DEPORTV 24.1
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCSmh3DFxBwFurMttT60PQ1g.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 
@@ -32,23 +23,34 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477865517230690306/bfzdGRuK_400x400.jpg" group-title="CHUBUT", prueba
-https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Videos Chistosos 
+https://linear-540.frequency.stream/dist/vix/540/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477865517230690306/bfzdGRuK_400x400.jpg" group-title="CHUBUT", prueba
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Videos Chistosos 
+https://linear-541.frequency.stream/dist/vix/541/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477865517230690306/bfzdGRuK_400x400.jpg" group-title="CHUBUT", prueba
-https://linear-557.frequency.stream/dist/vix/557/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Videos Chistosos 
+https://linear-542.frequency.stream/dist/vix/542/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477865517230690306/bfzdGRuK_400x400.jpg" group-title="CHUBUT", prueba
-https://linear-558.frequency.stream/dist/vix/558/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Videos Chistosos 
+https://linear-543.frequency.stream/dist/vix/543/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477865517230690306/bfzdGRuK_400x400.jpg" group-title="CHUBUT", prueba
-https://linear-559.frequency.stream/dist/vix/559/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Videos Chistosos 
+https://linear-544.frequency.stream/dist/vix/544/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477865517230690306/bfzdGRuK_400x400.jpg" group-title="CHUBUT", prueba
-https://linear-560.frequency.stream/dist/vix/560/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Videos Chistosos 
+https://linear-545.frequency.stream/dist/vix/545/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Videos Chistosos 
+https://linear-546.frequency.stream/dist/vix/546/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Videos Chistosos 
+https://linear-547.frequency.stream/dist/vix/547/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Videos Chistosos 
+https://linear-548.frequency.stream/dist/vix/548/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Videos Chistosos 
+https://linear-549.frequency.stream/dist/vix/549/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Videos Chistosos 
+https://linear-550.frequency.stream/dist/vix/550/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_26.jpg" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
