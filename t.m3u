@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="EVENTOS DEPORTIVOS", TNT SPORTS ARG HD
+http://128.201.227.251:4000/play/a003
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="EVENTOS DEPORTIVOS", TNT SPORTS ARG HD
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1901
+
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png", CANAL DE LA CIUDAD
 https://g3.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
 
