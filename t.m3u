@@ -55,8 +55,8 @@ https://linear-448.frequency.stream/dist/vix/448/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", LL
 https://linear-449.frequency.stream/dist/vix/449/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", LL 
-https://linear-450.frequency.stream/dist/vix/450/hls/master/playlist.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", DD 
+https://linear-450.frequency.stream/dist/vix/450/hls/master/playlist.m3u8
 
 
 
