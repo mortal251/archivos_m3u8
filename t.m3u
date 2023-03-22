@@ -28,38 +28,37 @@ http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", RR
-https://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", WW
+https://linear-421.frequency.stream/dist/vix/421/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", QQ
-https://linear-432.frequency.stream/dist/vix/432/hls/master/playlist.m3u8
+https://linear-422.frequency.stream/dist/vix/422/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", QQ
-https://linear-433.frequency.stream/dist/vix/433/hls/master/playlist.m3u8
+https://linear-423.frequency.stream/dist/vix/423/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", QQ
-https://linear-434.frequency.stream/dist/vix/434/hls/master/playlist.m3u8
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", QQ
-https://linear-435.frequency.stream/dist/vix/435/hls/master/playlist.m3u8
+https://linear-425.frequency.stream/dist/vix/425/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", QQ
-https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
+https://linear-426.frequency.stream/dist/vix/426/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", QQ
-https://linear-437.frequency.stream/dist/vix/437/hls/master/playlist.m3u8
+https://linear-427.frequency.stream/dist/vix/427/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", QQ
-https://linear-438.frequency.stream/dist/vix/438/hls/master/playlist.m3u8
+https://linear-428.frequency.stream/dist/vix/428/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", LL
-https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
+https://linear-429.frequency.stream/dist/vix/429/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", DD 
-https://linear-440.frequency.stream/dist/vix/440/hls/master/playlist.m3u8
+https://linear-430.frequency.stream/dist/vix/430/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", DD 
-https://linear-450.frequency.stream/dist/vix/450/hls/master/playlist.m3u8
+
 
 
 
