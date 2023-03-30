@@ -1,7 +1,44 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="FUTBOL ARG", DDDD
-https://ythls.onrender.com/channel/x8aobf1.m3u8
+
+#EXTINF:-1 group-title="JUJUY" tvg-logo="https://i.postimg.cc/J0LhHPBP/667-Radiocity.png", RADIOCITY JUJUY
+http://190.52.32.13:1935/CAMARAS/live2/playlist.m3u8
+
+#EXTINF:-1 group-title="MISIONES" tvg-logo="https://i.postimg.cc/mrj9h6ww/600-C4-POS.png", CANAL 4 POSADAS
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+
+#EXTINF:-1 group-title="MISIONES" tvg-logo="https://i.postimg.cc/mrj9h6ww/600-C4-POS.png", CANAL 4 POSADAS HD
+https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/KjD8PBPF/669-Origen.png", ORIGEN TV
+https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/KjD8PBPF/669-Origen.png", ORIGEN TV HD
+https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u81.m3u8
+
+
+#EXTM3U list-name="America TV" list-image="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png"
+
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png", AMERICA SD
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
+https://g1.vxral-hor.transport.edge-access.net/a07/americahls-100056/playlist_540p.m3u8
+
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png", AMERICA SD2
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png", AMERICA ALT
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/americahls-100056.m3u8
+
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png", AMERICA HD
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
+https://g1.vxral-hor.transport.edge-access.net/a07/americahls-100056/Playlist.m3u8
+
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png", AMERICA HD2
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
+https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", RR
 http://tvstarlife.com:25461/live/geovany/geovany/651.m3u8
